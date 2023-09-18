@@ -267,7 +267,7 @@ ul{
 }
 .portfolio-images ul{
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 370px 370px 370px;
     column-gap: 40px;  
     gap: 40px;
 }
