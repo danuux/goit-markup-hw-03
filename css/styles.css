@@ -37,9 +37,10 @@
 
 .contact-container{
     display: flex;
-    width: 30%;
+    width: 50%;
+    min-width: 100%;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 40px;
     padding-right: 100px;
     
